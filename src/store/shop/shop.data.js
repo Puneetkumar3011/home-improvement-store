@@ -35,31 +35,31 @@ const SHOP_DATA = {
     routeName: 'bath',
     items: [
       {
-        id: 1,
+        id: 1111,
         name: 'Top Shower',
         imageUrl: `${bathTopShower}`,
         price: 355
       },
       {
-        id: 2,
+        id: 1112,
         name: 'Single Ended',
         imageUrl: `${singleEnded}`,
         price: 275
       },
       {
-        id: 3,
+        id: 1113,
         name: 'Ellis Freestanding',
         imageUrl: `${ellisFreestanding}`,
         price: 310
       },
       {
-        id: 4,
+        id: 1114,
         name: 'Modern Curved',
         imageUrl: `${modernCurved}`,
         price: 215
       },
       {
-        id: 5,
+        id: 1115,
         name: 'Handed Shower',
         imageUrl: `${handedShower}`,
         price: 410
@@ -72,25 +72,25 @@ const SHOP_DATA = {
     routeName: 'basins',
     items: [
       {
-        id: 1,
+        id: 1121,
         name: 'Basin Pedesta',
         imageUrl: `${basinPedesta}`,
         price: 95
       },
       {
-        id: 2,
+        id: 1122,
         name: 'Oval Inset',
         imageUrl: `${ovelInset}`,
         price: 85
       },
       {
-        id: 3,
+        id: 1123,
         name: 'Rhodes Esta',
         imageUrl: `${rhodesEsta}`,
         price: 117
       },
       {
-        id: 4,
+        id: 1124,
         name: 'Wall Hung',
         imageUrl: `${wallHung}`,
         price: 89
@@ -103,31 +103,31 @@ const SHOP_DATA = {
     routeName: 'doors',
     items: [
       {
-        id: 1,
+        id: 1131,
         name: 'Antique Wooden',
         imageUrl: `${antiqueWooden}`,
         price: 999
       },
       {
-        id: 2,
+        id: 1132,
         name: 'Massive Solid',
         imageUrl: `${massiveSolid}`,
         price: 975
       },
       {
-        id: 3,
+        id: 1133,
         name: 'old Black',
         imageUrl: `${oldBlack}`,
         price: 875
       },
       {
-        id: 4,
+        id: 1134,
         name: 'Village Old',
         imageUrl: `${villageOld}`,
         price: 850
       },
       {
-        id: 5,
+        id: 1135,
         name: 'Vinus Old',
         imageUrl: `${vinusOld}`,
         price: 825
@@ -140,37 +140,37 @@ const SHOP_DATA = {
     routeName: 'windows',
     items: [
       {
-        id: 1,
+        id: 1141,
         name: 'Alluminim Casement',
         imageUrl: `${alluminiumCasement}`,
         price: 375
       },
       {
-        id: 2,
+        id: 1142,
         name: 'Pitfall Sermon',
         imageUrl: `${pitfallSermon}`,
         price: 325
       },
       {
-        id: 3,
+        id: 1143,
         name: 'Casement Window',
         imageUrl: `${casementWindow}`,
         price: 315
       },
       {
-        id: 4,
+        id: 1144,
         name: 'View Through',
         imageUrl: `${viewThrough}`,
         price: 425
       },
       {
-        id: 5,
+        id: 1145,
         name: 'Vinyl Replacement',
         imageUrl: `${vinylReplacement}`,
         price: 410
       },
       {
-        id: 6,
+        id: 1146,
         name: 'Will Efficient',
         imageUrl: `${willEfficient}`,
         price: 395
@@ -183,31 +183,31 @@ const SHOP_DATA = {
     routeName: 'tiles',
     items: [
       {
-        id: 1,
+        id: 1151,
         name: 'Ceramic Double',
         imageUrl: `${ceramicDouble}`,
         price: 675
       },
       {
-        id: 2,
+        id: 1152,
         name: 'Home Remote',
         imageUrl: `${homeRemote}`,
         price: 665
       },
       {
-        id: 3,
+        id: 1153,
         name: 'Living Room',
         imageUrl: `${livingRoom}`,
         price: 585
       },
       {
-        id: 4,
+        id: 1154,
         name: 'Shining Floor',
         imageUrl: `${shiningFloor}`,
         price: 635
       },
       {
-        id: 5,
+        id: 1155,
         name: 'Wall and Floor',
         imageUrl: `${wallFloor}`,
         price: 665
@@ -215,36 +215,36 @@ const SHOP_DATA = {
     ]
   },
   kitchen: {
-    id: 1156,
+    id: 116,
     title: 'Kitchen',
     routeName: 'kitchen',
     items: [
       {
-        id: 1,
+        id: 1161,
         name: 'Inspiring Island',
         imageUrl: `${inspiringIsland}`,
         price: 990
       },
       {
-        id: 2,
+        id: 1162,
         name: 'Keys Island',
         imageUrl: `${keysIsland}`,
         price: 925
       },
       {
-        id: 3,
+        id: 1163,
         name: 'Small Island',
         imageUrl: `${smallIsland}`,
         price: 905
       },
       {
-        id: 4,
+        id: 1164,
         name: 'Smallbone Style',
         imageUrl: `${smallBone}`,
         price: 895
       },
       {
-        id: 5,
+        id: 1165,
         name: 'Wall and Floor',
         imageUrl: `${wallFloor}`,
         price: 665

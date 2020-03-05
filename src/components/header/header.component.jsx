@@ -8,8 +8,8 @@ import CartDropdown from '../cart-dropdown/cart-dropdown.component';
 import {
   selectCartHidden,
   selectCartTotal
-} from '../../redux/cart/cart.selectors';
-import { selectCurrentUser } from '../../redux/user/user.selectors';
+} from '../../store/cart/cart.selectors';
+import { selectCurrentUser } from '../../store/user/user.selectors';
 
 import { ReactComponent as Logo } from '../../assets/home.svg';
 
