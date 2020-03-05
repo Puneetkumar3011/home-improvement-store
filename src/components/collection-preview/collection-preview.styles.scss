@@ -1,14 +1,22 @@
 .collection-preview {
   display: flex;
   flex-direction: column;
-  margin-bottom: 1.3em;
+  margin-bottom: 1em;
 
   .title {
     font-size: 1.5em;
+    margin-bottom: 10px;
   }
 
   .preview {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .collection-preview {
+    margin-bottom: 0.8em;
   }
 }
