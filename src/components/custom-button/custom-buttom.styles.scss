@@ -42,3 +42,19 @@
     }
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .custom-button {
+    min-width: 85px;
+    height: 35px;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .custom-button {
+    min-width: 85px;
+    height: 35px;
+    font-size: 12px;
+  }
+}

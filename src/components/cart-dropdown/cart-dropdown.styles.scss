@@ -33,3 +33,14 @@
     justify-content: space-between;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .cart-dropdown {
+    width: 240px;
+    max-height: 260px;
+  }
+
+  .cart-items {
+    max-height: 260px;
+  }
+}

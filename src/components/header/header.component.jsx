@@ -24,8 +24,8 @@ const Header = ({ currentUser, hidden, totalItemsInCart }) => (
       <Link className="option" to="/shop">
         SHOP
       </Link>
-      <Link className="option" to="/shop">
-        CONTACT
+      <Link className="option" to="/about">
+        ABOUT US
       </Link>
       {currentUser ? (
         <div className="option" onClick={() => console.log('Signed out')}>

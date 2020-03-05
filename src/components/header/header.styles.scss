@@ -26,4 +26,15 @@
       color: #fff;
     }
   }
+
+  @media only screen and (max-width: 600px) {
+    .options {
+      width: 76%;
+    }
+
+    .option {
+      padding: 5px 5px !important;
+      font-size: 12px;
+    }
+  }
 }
