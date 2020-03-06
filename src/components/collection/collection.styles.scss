@@ -9,9 +9,12 @@
 
   .items {
     grid-gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
 
     & .collection-item {
       margin-bottom: 30px;
+      margin: 5px;
     }
   }
 }
