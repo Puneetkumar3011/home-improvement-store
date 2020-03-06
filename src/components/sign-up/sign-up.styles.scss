@@ -5,5 +5,20 @@
 
   .title {
     margin: 10px 0;
+    font-weight: 700;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .sign-up {
+    width: 235px !important;
+    margin-top: 15px;
+    border-top: 5px solid grey;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .sign-up {
+    width: 310px !important;
   }
 }

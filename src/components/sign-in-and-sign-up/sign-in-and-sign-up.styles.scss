@@ -1,6 +1,12 @@
 .sign-in-and-sign-up {
-  width: 850px;
+  width: 85%;
   display: flex;
-  justify-content: space-between;
-  margin: 30px auto;
+  flex-direction: row;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .sign-in-and-sign-up {
+    flex-direction: column;
+  }
 }
